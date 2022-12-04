@@ -3,7 +3,9 @@ Chat Server-Client written in Java
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This application is a chat system with client and server code.  
+The server code hosts a chat session where a client can connect to chat with other users connected to the server.  
+The code is written in Java.
 
 ## Getting Started
 
